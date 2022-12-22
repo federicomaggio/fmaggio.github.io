@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello, thanks for taking a look! I'm currently a graduate student in the Department of Economics at West Virginia University, with fields in public and urban/regional. I'm on the job market this year, hoping for an academic position. Primarily, my research is focused on the interaction between individuals under different institutional settings and constraints, with a particular interest in legal systems. Before joing WVU's Economics department, I spent a year in the Natural Resource Economics department here, working on research related to fishery production. My undergrad was completed through Pell Grant funding at Bloomsburg University in Central Pennsylvania. I love playing around with and incorporating new empirical methods into my work. More importantly, I also am a pretty big fan of spending time outdoors.
+<p>I am a PhD Candidate in Economics at the <td><a target="_blank" href="https://www.unibz.it///">Free University of Bolzano-Bozen</a></td>.<br> I am supervised by <td><a target="_blank"  href="https://www.unibz.it/it/faculties/economics-management/academic-staff/person/36390-steven-stillman">Steven Stillman</a></td> and 
+		<td><a target="_blank" href="https://alexandermoradi.org//">Alexander Moradi</a></td>. I recently visited the <td><a target="_blank" href="https://www.unil.ch/de/home.html//">HEC - University of Lausanne</a></td>.<p>
+	<p>
+		<b>I am on the 2022-2023 Job Market!</b>
+		<p>
+		My research interests lie at the intersection between labor and development economics, with a particular focus on the determinants of migration, 
+		and the economic, and demographic impact of crime and violence.
 
 <img src="/images/personal/olympia.jpg" width="1000"/>
 
