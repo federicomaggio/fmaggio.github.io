@@ -15,7 +15,7 @@ redirect_from:
 		<p>
 		My research interests lie at the intersection between labor and development economics, with a particular focus on the determinants of migration, 
 		and the economic, and demographic impact of crime and violence.
-
+<p>
 <img src="/images/personal/olympia.jpg" width="1000"/>
 
 
